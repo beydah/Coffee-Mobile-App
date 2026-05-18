@@ -27,7 +27,7 @@
     "autoprefixer": "^10.4.21",
     "cross-env": "^7.0.3",
     "eslint": "^9.32.0",
-    "postcss": "^8.5.11",
+    "postcss": "^8.5.12",
     "tailwindcss": "^3.4.17",
     "typescript": "^5"
   }
